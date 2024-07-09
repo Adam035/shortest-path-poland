@@ -1,0 +1,70 @@
+[
+  {
+    "name": "podkarpackie",
+    "neighbors": ["malopolskie", "swietokrzyskie", "lubelskie"]
+  },
+  {
+    "name": "malopolskie",
+    "neighbors": ["slaskie", "swietokrzyskie", "podkarpackie"]
+  },
+  {
+    "name": "slaskie",
+    "neighbors": ["opolskie", "lodzkie", "swietokrzyskie", "malopolskie"]
+  },
+  {
+    "name": "opolskie",
+    "neighbors": ["dolnoslaskie", "wielkopolskie", "lodzkie", "slaskie"]
+  },
+  {
+    "name": "dolnoslaskie",
+    "neighbors": ["lubuskie", "wielkopolskie", "opolskie"]
+  },
+  {
+    "name": "swietokrzyskie",
+    "neighbors": ["mazowieckie", "lubelskie", "podkarpackie", "malopolskie", "slaskie", "lodzkie"]
+  },
+  {
+    "name": "lubelskie",
+    "neighbors": ["podkarpackie", "swietokrzyskie", "mazowieckie"]
+  },
+  {
+    "name": "lodzkie",
+    "neighbors": ["kujawsko-pomorskie", "mazowieckie", "swietokrzyskie", "slaskie", "opolskie", "wielkopolskie"]
+  },
+  {
+    "name": "mazowieckie",
+    "neighbors": ["warminsko-mazurskie", "podlaskie", "lubelskie", "swietokrzyskie", "lodzkie", "kujawsko-pomorskie"]
+  },
+  {
+    "name": "wielkopolskie",
+    "neighbors": ["pomorskie", "kujawsko-pomorskie", "lodzkie", "opolskie", "dolnoslaskie", "lubuskie", "zachodnio-pomorskie"]
+  },
+  {
+    "name": "wielkopolskie",
+    "neighbors": ["pomorskie", "kujawsko-pomorskie", "lodzkie", "opolskie", "dolnoslaskie", "lubuskie", "zachodnio-pomorskie"]
+  },
+  {
+    "name": "lubuskie",
+    "neighbors": ["zachodnio-pomorskie", "wielkopolskie", "dolnoslaskie"]
+  },
+  {
+    "name": "kujawsko-pomorskie",
+    "neighbors": ["pomorskie", "warminsko-mazurskie", "mazowieckie", "lodzkie", "wielkopolskie"]
+  },
+  {
+    "name": "podlaskie",
+    "neighbors": ["lubelskie", "mazowieckie", "warminsko-mazurskie"]
+  },
+  {
+    "name": "warminsko-mazurskie",
+    "neighbors": ["podlaskie", "mazowieckie", "kujawsko-pomorskie", "pomorskie"]
+  },
+  {
+    "name": "pomorskie",
+    "neighbors": ["warminsko-mazurskie", "kujawsko-pomorskie", "wielkopolskie", "zachodnio-pomorskie"]
+  },
+  {
+    "name": "zachodnio-pomorskie",
+    "neighbors": ["pomorskie", "wielkopolskie", "lubuskie"]
+  }
+]
