@@ -40,10 +40,6 @@
     "neighbors": ["pomorskie", "kujawsko-pomorskie", "lodzkie", "opolskie", "dolnoslaskie", "lubuskie", "zachodnio-pomorskie"]
   },
   {
-    "name": "wielkopolskie",
-    "neighbors": ["pomorskie", "kujawsko-pomorskie", "lodzkie", "opolskie", "dolnoslaskie", "lubuskie", "zachodnio-pomorskie"]
-  },
-  {
     "name": "lubuskie",
     "neighbors": ["zachodnio-pomorskie", "wielkopolskie", "dolnoslaskie"]
   },
