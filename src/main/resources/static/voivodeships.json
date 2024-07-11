@@ -21,11 +21,11 @@
   },
   {
     "name": "swietokrzyskie",
-    "neighbors": ["mazowieckie", "lubelskie", "podkarpackie", "malopolskie", "slaskie", "lodzkie"]
+    "neighbors": ["mazowieckie", "podkarpackie", "lubelskie", "malopolskie", "slaskie", "lodzkie"]
   },
   {
     "name": "lubelskie",
-    "neighbors": ["podkarpackie", "swietokrzyskie", "mazowieckie"]
+    "neighbors": ["podkarpackie", "swietokrzyskie", "mazowieckie", "podlaskie"]
   },
   {
     "name": "lodzkie",
