@@ -1,0 +1,15 @@
+body {
+    background-color: #282828;
+}
+
+.voivodeship {
+    fill: #202020;
+}
+
+div {
+    margin: 50px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
